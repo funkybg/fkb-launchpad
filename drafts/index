@@ -1,0 +1,12 @@
+	-> container
+		-> header
+			-> logo
+			-> menu
+		-> body
+			-> heading
+				-> sub-heading
+			-> register / login (dynamic)
+				-> social connect
+				-> password validation
+				-> password strength
+		-> call me footer (maybe)
